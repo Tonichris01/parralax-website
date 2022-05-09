@@ -5,7 +5,7 @@
 
 #firstImage {
     min-height: 500px;
-    background-image: url(/img/simon-wilkes-2ceyL8qAPXg-unsplash.jpg);
+    background-image: url("https://tonichris01.github.io/parralax-website//img/simon-wilkes-2ceyL8qAPXg-unsplash.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -39,7 +39,7 @@ h2 {
 
 #secondImage {
     min-height: 500px;
-    background-image: url(/img/andrea-de-santis-96BE9HVj5PU-unsplash.jpg);
+    background-image: url("https://tonichris01.github.io/parralax-website/img/andrea-de-santis-96BE9HVj5PU-unsplash.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -51,7 +51,7 @@ h2 {
 
 #thirdImage {
     min-height: 500px;
-    background-image: url(/img/karsten-wurth-UbGYPMbMYP8-unsplash.jpg);
+    background-image: url("https://tonichris01.github.io/parralax-website//img/karsten-wurth-UbGYPMbMYP8-unsplash.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
@@ -63,7 +63,7 @@ h2 {
 
 #fourthImage {
     min-height: 500px;
-    background-image: url(/img/marcus-lofvenberg-WLXfEKt2pXc-unsplash.jpg);
+    background-image: url("https://tonichris01.github.io/parralax-website//img/marcus-lofvenberg-WLXfEKt2pXc-unsplash.jpg");
     background-attachment: fixed;
     background-position: center;
     background-repeat: no-repeat;
